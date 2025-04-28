@@ -5,10 +5,6 @@
 
 ---
 
-Here’s a **professional one-paragraph story** you can directly paste inside your **GitHub README** under a "**Real-World Case Study**" section:
-
----
-
 ## 🏢 Real-World Case Study: StreamFlix Inc.
 
 > **At StreamFlix Inc.**, a fast-growing video streaming company, the DevOps team was tasked with ensuring rapid and reliable deployment of updates to their Kubernetes-based platform. Developers needed to push new features and bug fixes frequently without risking service downtime. By implementing this AWS CI/CD pipeline — combining **AWS CodePipeline**, **CodeBuild**, **ECR**, and **EKS** — StreamFlix automated the entire deployment process from GitHub source code to production. A **manual approval step** was integrated before deployment to production, enabling quality assurance checks and reducing deployment risks. This solution reduced deployment time from hours to minutes, minimized human error, and provided the engineering team with a safe, scalable, and highly available deployment process trusted by thousands of users every day.
